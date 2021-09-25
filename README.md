@@ -7,8 +7,9 @@
 <a href="mailto:monupareeklg24@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br>
-### About Me
+<br />
+
+### About Me 🚀
 🌱 I am a full time hacker with development skills and an MERN Developer <br>
 👨‍💻 I am fully passionate about my hacking and bug hunting & my key skills are web vlunerability testing <br>
 
