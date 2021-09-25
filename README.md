@@ -11,9 +11,10 @@
 
 ### About Me 🚀
 🌱 I am a full time hacker with development skills and an MERN Developer <br>
-👨‍💻 I am fully passionate about my hacking and bug hunting & my key skills are web vlunerability testing <br>
+👨‍💻 I am fully passionate about my hacking and bug hunting & my key skills are web vlunerability testing 
+<br />
 
-[Love github stats](https://github-readme-stats.vercel.app/api?username=monupareeklg&show_icons=true&theme=radical);
+![Love github stats](https://github-readme-stats.vercel.app/api?username=monupareeklg&show_icons=true&theme=radical);
 ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monupareeklg&layout=compact&langs_count=8&hide_border=false)
 <br>
 
