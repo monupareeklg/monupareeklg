@@ -14,7 +14,7 @@
 👨‍💻 I am fully passionate about my hacking and bug hunting & my key skills are web vlunerability testing 
 <br />
 
-![Love github stats](https://github-readme-stats.vercel.app/api?username=monupareeklg&show_icons=true&theme=radical)<br />
+![Love github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=monupareeklg&theme=github_dark&layout=compact#gh-dark-mode-only)<br />
 ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monupareeklg&layout=compact&langs_count=8&hide_border=false)
 <br />
 
