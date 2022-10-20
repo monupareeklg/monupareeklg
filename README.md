@@ -20,7 +20,7 @@
 ![Love github stats](https://github-readme-stats.vercel.app/api?username=monupareeklg&show_icons=true&theme=radical)<br />
 ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monupareeklg&layout=compact&langs_count=8&hide_border=false)
 <br />
-<script src="https://tryhackme.com/badge/72443"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/HB404.png" alt="TryHackMe">
 
 <img src="https://www.codewars.com/users/HB404/badges/small" alt="CodeWars">
 
