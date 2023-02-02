@@ -22,6 +22,7 @@
 <br />
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/HB404.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/72443"></script>
 
 <img src="https://www.codewars.com/users/HB404/badges/small" alt="CodeWars">
 
