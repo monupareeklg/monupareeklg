@@ -2,10 +2,10 @@
 
 
 <a href="https://www.linkedin.com/in/love-pareek-376ba1157/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"  />
 </a>
 <a href="mailto:monupareeklg24@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"  />
 </a>
 <a href="https://app.hackthebox.com/profile/91863">
   <img align="left" width="26px" src="https://www.svgrepo.com/show/331423/hack-the-box.svg" />
@@ -13,8 +13,15 @@
 <br />
 
 ### About Me 🚀
-🌱 I am a full time hacker with development skills and an MERN Developer <br>
-👨‍💻 I am fully passionate about my hacking and bug hunting & my key skills are web vlunerability testing 
+💻 As a full stack developer, I thrive on building seamless, scalable applications. From crafting responsive front-end interfaces with React and enhancing user experiences to managing databases and server-side operations using Node.js, I love the comprehensive art of full stack development.<br>
+
+🚀 My pursuit of knowledge and constant desire to refine my skills drive me to tackle diverse projects. I believe in the power of clean, efficient code and the impact it can make on the digital world. <br>
+
+🌱 Always up for a challenge, I enjoy cloning and replicating complex applications, learning the intricacies, and pushing my boundaries. Every project is a canvas where I get to blend technology and creativity.<br>
+
+🎮 When I'm not coding, you'll find me immersed in the world of gaming or exploring the fascinating realm of anime. Balancing work and passions keeps me energized and ready to take on any challenge that comes my way.<br>
+
+🛠️ Let's connect and build amazing things together! Feel free to explore my repositories and don't hesitate to reach out for collaboration or a friendly chat. Happy coding! 🚀 <br>
 <br />
 
 ![Love github stats](https://github-readme-stats.vercel.app/api?username=monupareeklg&show_icons=true&theme=radical)<br />
