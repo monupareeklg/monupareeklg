@@ -13,15 +13,15 @@
 <br />
 
 ### About Me 🚀
-💻 As a full stack developer, I thrive on building seamless, scalable applications. From crafting responsive front-end interfaces with React and enhancing user experiences to managing databases and server-side operations using Node.js, I love the comprehensive art of full stack development.<br>
+💻 As a full-stack developer, I thrive on building seamless, scalable applications. From crafting responsive front-end interfaces with React and enhancing user experiences to managing databases and server-side operations using Node.js, I love the comprehensive art of full-stack development.<br>
 
-🚀 My pursuit of knowledge and constant desire to refine my skills drive me to tackle diverse projects. I believe in the power of clean, efficient code and the impact it can make on the digital world. <br>
+🚀 My pursuit of knowledge and constant desire to refine my skills drive me to tackle diverse projects. I believe in the power of clean, efficient code and its impact on the digital world. <br>
 
 🌱 Always up for a challenge, I enjoy cloning and replicating complex applications, learning the intricacies, and pushing my boundaries. Every project is a canvas where I get to blend technology and creativity.<br>
 
-🎮 When I'm not coding, you'll find me immersed in the world of gaming or exploring the fascinating realm of anime. Balancing work and passions keeps me energized and ready to take on any challenge that comes my way.<br>
+🎮 When I'm not coding, you'll find me immersed in gaming or exploring the fascinating realm of anime. Balancing work and passions keeps me energized and ready to take on any challenge that comes my way.<br>
 
-🛠️ Let's connect and build amazing things together! Feel free to explore my repositories and don't hesitate to reach out for collaboration or a friendly chat. Happy coding! 🚀 <br>
+🛠️ Let's connect and build amazing things together! Feel free to explore my repositories and don't hesitate to contact for collaboration or a friendly chat. Happy coding! 🚀 <br>
 <br />
 
 ![Love github stats](https://github-readme-stats.vercel.app/api?username=monupareeklg&show_icons=true&theme=radical)<br />
@@ -33,8 +33,5 @@
 <img src="https://www.codewars.com/users/HB404/badges/small" alt="CodeWars">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=monupareeklg&" alt="monupareeklg">
-
-
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monupareeklg.visitor-badge)
