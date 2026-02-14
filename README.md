@@ -34,6 +34,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=monupareeklg&" alt="monupareeklg">
 
-![Growth Hub](https://api.watchandupload.online/user/api/widget/StackOfLuv.svg)
+![Growth Hub](https://api.watchandupload.online/user/api/img/StackOfLuv.svg)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monupareeklg.visitor-badge)
